@@ -1,0 +1,16 @@
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\bin\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.exe
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\bin\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.deps.json
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\bin\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\bin\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.runtimeconfig.dev.json
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\bin\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.dll
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\bin\Debug\net5.0\ref\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.dll
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\bin\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.pdb
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.dll
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\ref\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.dll
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.pdb
+C:\Users\talha\OneDrive\Masaüstü\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\obj\Debug\net5.0\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.genruntimeconfig.cache
